@@ -39,6 +39,10 @@ header p {
     padding: 1em;
     position: relative;
 }
+.navbar li:hover{
+    background-color: #4A90E2;
+    cursor: :pointer;
+}
 
 /* Dropdown styling */
 .dropdown-content {
